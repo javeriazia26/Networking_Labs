@@ -1,4 +1,4 @@
-Networking Lab
+**Networking Lab
 
 A collection of practical computer networking projects built with Cisco Packet Tracer. This repository contains hands-on implementations of networking concepts learned through Cisco Networking Basics and further explored through practical network configuration, routing, enterprise networking, and security projects.
 
