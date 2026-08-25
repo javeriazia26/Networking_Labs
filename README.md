@@ -263,16 +263,11 @@ More networking projects will be added as I continue developing my networking sk
 
 Planned areas include:
 
-* Static Routing
-* Dynamic Routing
 * OSPF
 * NAT/PAT
 * ACLs
 * DHCP Server
 * DNS Server
-* Port Security
-* SSH
-* Wireless Networking
 * VPN
 * Advanced Network Security
 * Larger Enterprise Network Designs
